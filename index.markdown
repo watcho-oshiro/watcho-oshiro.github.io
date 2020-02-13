@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is the Ryunoske Oshiro's website.
+This is Ryunoske Oshiro's website.

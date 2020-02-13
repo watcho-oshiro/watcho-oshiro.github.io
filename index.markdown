@@ -4,4 +4,5 @@
 
 layout: home
 ---
-hogefugapiyo
+
+This is the Ryunoske Oshiro's website.
